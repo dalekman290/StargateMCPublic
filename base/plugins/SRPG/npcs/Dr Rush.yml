@@ -4,7 +4,7 @@ npc:
   title: 'NONE'
   template: 'NONE'
   textureType: 'RESOURCE'
-  textureUri: 'NONE'
+  textureUri: 'customnpcs:textures/entity/stargate/Tauri/tauri_nicholas_rush'
   capeTexture: 'NONE'
   overlayTexture: 'NONE'
   faction: 'Destiny Expedition'
@@ -12,7 +12,7 @@ npc:
   rotation: 0
   visible: 'YES'
   modelType: 'NONE'
-  gender: 'FEMALE'
+  gender: 'MALE'
   size: 5
   showBossBar: 'NO'
   showName: 'NO'
